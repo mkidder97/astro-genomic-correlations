@@ -1,0 +1,35 @@
+# Core scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Astronomical calculations
+swisseph>=2.10.3.2
+ephem>=4.1.5
+pyephem>=9.99
+astropy>=5.3.0
+
+# Statistical analysis
+statsmodels>=0.14.0
+pingouin>=0.5.3
+seaborn>=0.12.0
+matplotlib>=3.7.0
+
+# Genetic analysis
+biopython>=1.81
+pygenes>=0.1.0
+
+# Data processing
+pyyaml>=6.0
+click>=8.0.0
+tqdm>=4.65.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Development
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
